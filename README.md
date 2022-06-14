@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Matheus Henrique!
 
-I am a Front End Developer 🌐 I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a Front End Developer 🌐 I love developing Web Applications 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
